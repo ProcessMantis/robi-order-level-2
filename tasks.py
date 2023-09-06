@@ -134,4 +134,4 @@ def embed_screenshot_to_receipt(screenshot, pdf_file):
 
 def archive_receipts():
     """Archive receipts as a zip file"""
-    lib.archive_folder_with_zip("output/receipts", "receipts.zip")
+    lib.archive_folder_with_zip("output/receipts", "output/receipts.zip")
