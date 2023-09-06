@@ -122,7 +122,7 @@ def store_receipt_as_pdf(order_number):
 def screenshot_robot(order_number):
     """Store a screenshot of the ordered robot and title file by order number"""
 
-    screenshot_path = f'output/screenshots/Robot_screenshot_order_number{order_number["Order number"]}.png'
+    screenshot_path = f'output/receipts/Robot_screenshot_order_number{order_number["Order number"]}.png'
     page.locator("id=robot-preview-image").screenshot(path=screenshot_path)
     return screenshot_path
 
@@ -134,4 +134,4 @@ def embed_screenshot_to_receipt(screenshot, pdf_file):
 
 def archive_receipts():
     """Archive receipts as a zip file"""
-    lib.archive_folder_with_zip("output/receipts", "output/robot_order_receipts.zip")
+    lib.archive_folder_with_zip("output/receipts", "receipts.zip")
