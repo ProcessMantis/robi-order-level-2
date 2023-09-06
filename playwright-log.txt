@@ -1,0 +1,22 @@
+{"level":30,"time":"2023-09-05T13:22:07.068Z","pid":30216,"hostname":"endrin","msg":"Listening on 51893"}
+{"level":30,"time":"2023-09-05T13:22:07.250Z","pid":30216,"hostname":"endrin","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-09-05T13:22:07.985Z","pid":30216,"hostname":"endrin","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-09-05T13:22:07.988Z","pid":30216,"hostname":"endrin","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-09-05T13:22:07.988Z","pid":30216,"hostname":"endrin","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-05T13:22:07.989Z","pid":30216,"hostname":"endrin","msg":"Trace file: "}
+{"level":30,"time":"2023-09-05T13:22:08.005Z","pid":30216,"hostname":"endrin","msg":"Changed active context"}
+{"level":30,"time":"2023-09-05T13:22:08.005Z","pid":30216,"hostname":"endrin","msg":"End of node method newContext"}
+{"level":30,"time":"2023-09-05T13:22:08.010Z","pid":30216,"hostname":"endrin","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-09-05T13:22:08.011Z","pid":30216,"hostname":"endrin","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-05T13:22:08.407Z","pid":30216,"hostname":"endrin","msg":"Video path: undefined"}
+{"level":30,"time":"2023-09-05T13:22:08.407Z","pid":30216,"hostname":"endrin","msg":"Changed active page"}
+{"level":30,"time":"2023-09-05T13:22:08.422Z","pid":30216,"hostname":"endrin","msg":"End of node method newPage"}
+{"level":30,"time":"2023-09-05T13:22:08.428Z","pid":30216,"hostname":"endrin","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-09-05T13:22:08.428Z","pid":30216,"hostname":"endrin","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-05T13:22:08.657Z","pid":30216,"hostname":"endrin","msg":"Video path: undefined"}
+{"level":30,"time":"2023-09-05T13:22:08.657Z","pid":30216,"hostname":"endrin","msg":"Changed active page"}
+{"level":30,"time":"2023-09-05T13:22:08.958Z","pid":30216,"hostname":"endrin","msg":"End of node method newPage"}
+{"level":30,"time":"2023-09-05T13:22:09.486Z","pid":30216,"hostname":"endrin","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-09-05T13:22:09.504Z","pid":30216,"hostname":"endrin","msg":"Removed page=783af5fa-1d5e-4def-9caa-393a864aa68d from context=163054d8-5585-41a9-bb67-af14145d016d page stack"}
+{"level":30,"time":"2023-09-05T13:22:09.505Z","pid":30216,"hostname":"endrin","msg":"Removed page=ce38d9bf-5bcd-400c-9c4f-e16051d8030d from context=163054d8-5585-41a9-bb67-af14145d016d page stack"}
+{"level":30,"time":"2023-09-05T13:22:09.690Z","pid":30216,"hostname":"endrin","msg":"End of node method closeAllBrowsers"}
