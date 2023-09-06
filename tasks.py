@@ -30,7 +30,7 @@ def order_robots_from_RobotSparePartBin():
     Embeds the screenshot of the robot to the PDF receipt.
     Creates ZIP archive of the receipts and the images.
     """
-    # Workflow
+    # Main Workflow
     open_robot_order_website()
 
     orders = get_orders()
